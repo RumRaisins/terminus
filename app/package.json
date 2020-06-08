@@ -49,7 +49,7 @@
     "windows-swca": "^2.0.2"
   },
   "devDependencies": {
-    "@types/mz": "0.0.32",
+    "@types/mz": "2.7.1",
     "@types/node": "12.7.12",
     "node-abi": "^2.18.0"
   }
